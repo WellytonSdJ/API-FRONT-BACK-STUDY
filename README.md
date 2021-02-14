@@ -33,6 +33,3 @@ Consumir API
 - [] semelhanças entre axios e fetch
 - [] usar try/catch
 
-
-- [] procurar como subir arquivos para git
-- [] conferir projetos prontos e subi-los
