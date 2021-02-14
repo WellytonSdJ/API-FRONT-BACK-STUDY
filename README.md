@@ -1,10 +1,12 @@
 # Consumir API
 
 A idéia do exercício é:
-- [] criar uma API
-- [] consumi-la no front-end
-- [] consumi-la no back-end
+- [x] criar uma API
+- [x] consumi-la no front-end
+- [x] consumi-la no back-end
 
+Este exercício foi feito com auxílio do conteúdo disponibilizado pela RocketSeat.
+O link de todas instruções: https://www.youtube.com/watch?v=vYlz3SmNXQQ&t=1756s
 
 ## API
 
@@ -28,8 +30,7 @@ Consumir API
 ## backend
 Consumir API
 
-- [] jsonplaceholder
-- [] usasr axios
-- [] semelhanças entre axios e fetch
-- [] usar try/catch
-
+- [x] jsonplaceholder https://jsonplaceholder.typicode.com/users
+- [x] usasr axios
+- [x] semelhanças entre axios e fetch
+- [x] usar try/catch
